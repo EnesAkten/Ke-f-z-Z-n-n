@@ -1,0 +1,98 @@
+QUİZ 10
+
+Soru 1
+
+getAccess = False
+ 
+if (not getAccess):
+    print("Bu bölüme girmeye izniniz bulunmuyor")
+ 
+else:
+    print("İzin sağlandı")
+
+Cevap= Bu bölüme girmeye izniniz bulunmuyor.
+
+
+Soru 2
+
+number = float(input("Bir sayı girin: "))
+if number >= 0:
+  if number == 0
+    print("Girdiğiniz sayı 0")
+  else:
+    print("Sayı bir pozitif sayı")
+else: 
+  print("Sayı bir negatif sayı")
+  
+  
+  Soru 3
+  
+  note = 81
+ 
+if note >= 90:
+    print("AA")
+if note >= 85:
+    print("BA")
+if note >= 90:
+    print("BA")
+if note >= 80:
+    print("BB")
+if note >= 75:
+    print("CB")
+if note >= 70:
+    print("CC")
+if note >= 65:
+    print("DC")
+if note >= 60:
+    print("DD")
+else:
+    print("Dersten Kaldınız")
+    
+    Cevap= 
+    BB
+    CB
+    CC
+    DC
+    DD
+    
+    
+    
+  QUİZ 11
+ 
+ 
+## Soru 1
+  
+ "yt" in "Python"
+ 
+ Cevap = True
+  
+  
+  
+  
+  
+  
+  
+ ## Soru 2 
+ 
+ 
+ liste = [2,1,10,2,23,1,56,3]
+ 
+total = 0
+for i in liste:
+    if (not (i % 2 == 0)):
+        total += i
+ 
+print(total)
+
+Cevap = 28
+
+
+
+  
+
+
+
+
+
+
+
